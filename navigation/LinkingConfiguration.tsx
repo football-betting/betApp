@@ -7,9 +7,6 @@ export default {
             Root: {
                 screens: {
                     Home: {
-                        screens: {
-                            HomeScreen: 'one',
-                        },
                     },
                 },
             },
